@@ -1,0 +1,10 @@
+Minimum number of throws is: 4
+Minimum number of throws is: 3
+Minimum number of throws is: 3
+Minimum number of throws is: 3
+Minimum number of throws is: 5
+Minimum number of throws is: 4
+Minimum number of throws is: 2
+Minimum number of throws is: 3
+Minimum number of throws is: 4
+Minimum number of throws is: 5
